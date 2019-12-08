@@ -40,6 +40,9 @@ export default function HomeScreen() {
           </View>
 
           <Text style={styles.getStartedText}>
+            Love && Peace
+          </Text>
+          <Text style={styles.getStartedText}>
             Change this text and your app will automatically reload.
           </Text>
         </View>
